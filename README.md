@@ -170,7 +170,7 @@ and many other crops depending on the input conditions.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Crop-Recommendation-System.git
+git clone https://github.com/Vishavjeet1234/AI-Crop-Recommendation-System.git
 ```
 
 ### Navigate to Project Folder
