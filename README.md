@@ -231,7 +231,7 @@ Recommended Crop: Rice
 * AI-Based Disease Detection
 
 ---
-AI Crop recommendation system
+
 ## Conclusion
 
 The AI-Based Crop Recommendation System demonstrates the application of Machine Learning in modern agriculture. By analyzing soil and environmental conditions, the system provides accurate crop recommendations that help farmers improve productivity, optimize resource utilization, and support sustainable farming practices.
